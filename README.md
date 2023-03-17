@@ -10,6 +10,8 @@ This is a responsive food resturant website created using HTML, CSS and Javascri
 
 # Projects
 All of the following files were created during this project:
+| File name | Description |
+| ------------ | ----------- |
 [`index.html`](https://github.com/Rubie-Eurickah/Spruce/blob/master/index.html) | This is the websites home page.
 
 [`about.html](https://github.com/Rubie-Eurickah/Spruce/blob/master/about.html) | This page tell us more about the resturant history and it's goals.
